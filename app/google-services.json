@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "425912910889",
+    "firebase_url": "https://nammagpa-9f928.firebaseio.com",
+    "project_id": "nammagpa-9f928",
+    "storage_bucket": "nammagpa-9f928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425912910889:android:ad585a9e436f3aba4e4838",
+        "android_client_info": {
+          "package_name": "com.example.gpa_calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425912910889-e3o1hp3q0t357jmfbmr28snjn57e90ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrWYfWKZwAjvzJeKr5Zd_RzCwXqldZMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425912910889-e3o1hp3q0t357jmfbmr28snjn57e90ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425912910889:android:3a00954223ed03ad4e4838",
+        "android_client_info": {
+          "package_name": "com.namma.gpa_calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425912910889-e3o1hp3q0t357jmfbmr28snjn57e90ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrWYfWKZwAjvzJeKr5Zd_RzCwXqldZMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425912910889-e3o1hp3q0t357jmfbmr28snjn57e90ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
